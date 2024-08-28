@@ -1,0 +1,11 @@
+{
+    "name": "basic configuration",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "mhutchie.git-graph",
+                "phil294.git-log--graph"
+            ]
+        }
+    }
+}
